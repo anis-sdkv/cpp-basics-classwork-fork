@@ -33,7 +33,7 @@
 
 Склонируйте/импортируйте репозиторий при помощи среды разработки или вручную через терминал:
 ```shell
-git clone https://github.com/Introduction-to-C-plus-plus-2022/cpp-basics-classwork
+git clone https://github.com/anis-sdkv/cpp-basics-classwork-fork.git
 ```
 
 Сборка и запуск проекта осуществляются через среду разработки.

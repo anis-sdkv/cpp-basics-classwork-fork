@@ -1,0 +1,186 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "classwork",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01_main-Debug-89bd46dd8d7ea7a1a221.json",
+					"name" : "01_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02_types::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02_types-Debug-db68b3649ab55bb5575a.json",
+					"name" : "02_types",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03_operators::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03_operators-Debug-69543dc529998031507b.json",
+					"name" : "03_operators",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04_branching::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04_branching-Debug-1f372bbf4454997748c0.json",
+					"name" : "04_branching",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05_loops::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05_loops-Debug-13db6bed3df0b9a38ec8.json",
+					"name" : "05_loops",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "06_functions::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06_functions-Debug-7200302b57a4b6ead701.json",
+					"name" : "06_functions",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "07_iostream::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07_iostream-Debug-2754fb02866b96045274.json",
+					"name" : "07_iostream",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "08_pointers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-08_pointers-Debug-b1b342bc7ac74013837d.json",
+					"name" : "08_pointers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "09_static_array::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-09_static_array-Debug-88e6bfe7fe89dd6c63ba.json",
+					"name" : "09_static_array",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "10_references::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-10_references-Debug-cf2ed8e824760a65b26b.json",
+					"name" : "10_references",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "11_function_args::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-11_function_args-Debug-541634d6527fc537b1b8.json",
+					"name" : "11_function_args",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "12_memory::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-12_memory-Debug-e2ded2012ec9806ca15f.json",
+					"name" : "12_memory",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "13_dynamic_array::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-13_dynamic_array-Debug-95899043508794c23bbf.json",
+					"name" : "13_dynamic_array",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "14_headers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-14_headers-Debug-1ac512e09240ac2dabdb.json",
+					"name" : "14_headers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "15_structures::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-15_structures-Debug-314a3d97b86dfd950714.json",
+					"name" : "15_structures",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Projects/c++/course/cpp-basics-classwork-fork/out/build/x64-Debug",
+		"source" : "D:/Projects/c++/course/cpp-basics-classwork-fork"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,17 @@
+D:/Projects/c++/course/cpp-basics-classwork-fork/out/build/x64-Debug/CMakeFiles/15_structures.dir
+D:/Projects/c++/course/cpp-basics-classwork-fork/out/build/x64-Debug/CMakeFiles/05_loops.dir
+D:/Projects/c++/course/cpp-basics-classwork-fork/out/build/x64-Debug/CMakeFiles/03_operators.dir
+D:/Projects/c++/course/cpp-basics-classwork-fork/out/build/x64-Debug/CMakeFiles/04_branching.dir
+D:/Projects/c++/course/cpp-basics-classwork-fork/out/build/x64-Debug/CMakeFiles/01_main.dir
+D:/Projects/c++/course/cpp-basics-classwork-fork/out/build/x64-Debug/CMakeFiles/13_dynamic_array.dir
+D:/Projects/c++/course/cpp-basics-classwork-fork/out/build/x64-Debug/CMakeFiles/07_iostream.dir
+D:/Projects/c++/course/cpp-basics-classwork-fork/out/build/x64-Debug/CMakeFiles/14_headers.dir
+D:/Projects/c++/course/cpp-basics-classwork-fork/out/build/x64-Debug/CMakeFiles/02_types.dir
+D:/Projects/c++/course/cpp-basics-classwork-fork/out/build/x64-Debug/CMakeFiles/06_functions.dir
+D:/Projects/c++/course/cpp-basics-classwork-fork/out/build/x64-Debug/CMakeFiles/08_pointers.dir
+D:/Projects/c++/course/cpp-basics-classwork-fork/out/build/x64-Debug/CMakeFiles/09_static_array.dir
+D:/Projects/c++/course/cpp-basics-classwork-fork/out/build/x64-Debug/CMakeFiles/10_references.dir
+D:/Projects/c++/course/cpp-basics-classwork-fork/out/build/x64-Debug/CMakeFiles/11_function_args.dir
+D:/Projects/c++/course/cpp-basics-classwork-fork/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/Projects/c++/course/cpp-basics-classwork-fork/out/build/x64-Debug/CMakeFiles/12_memory.dir
+D:/Projects/c++/course/cpp-basics-classwork-fork/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
